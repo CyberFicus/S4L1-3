@@ -14,7 +14,6 @@ namespace S4L1_3
             try
             {
                 int num = Convert.ToInt32(textBox_num.Text);
-                //MessageBox.Show($"{num}");
 
                 bool is_even(int num)
                 {
